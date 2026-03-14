@@ -42,8 +42,6 @@ coa-raw-hazard-project/
 | x8       | 290   | 10 × (x3 + x4)  |
 | x9       | 0     | loop done       |
 
-## Team Members
-- Name 1 — Roll No.
 - Name 2 — Roll No.
 
 ## References
