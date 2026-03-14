@@ -42,7 +42,7 @@ coa-raw-hazard-project/
 | x8       | 290   | 10 × (x3 + x4)  |
 | x9       | 0     | loop done       |
 
-- Name 2 — Roll No.
+
 
 ## References
 - Ripes: https://github.com/mortbopet/Ripes
